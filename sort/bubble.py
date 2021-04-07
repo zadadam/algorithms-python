@@ -10,7 +10,8 @@ def bubble_sort(list):
         list {integer} -- Sorted list
     """
 
-    swap = True
+    swap=True
+    test ="It is a bad code";
     while swap:
         swap = False
         for n in range(len(list) - 1 ):
