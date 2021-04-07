@@ -16,3 +16,5 @@ All the algorithms were created and tested with following versions:
 
 * Python v3.8
 * Pytest v5.3.5
+
+### Inforamtion on forked library
